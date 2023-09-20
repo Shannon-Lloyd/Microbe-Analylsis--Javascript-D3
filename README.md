@@ -15,7 +15,7 @@ Use the D3 library to connect to a url and read a json file. Use the D# library 
 ## Getting Started
 All necessary files are located in this belly-button-challenge repository. Data is retrieved from https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json
 
-The Static folder contains a JS folder contains the app.js file. App.js contains all the javasript code to create the interatcive visualizations for representing data about microbes that colonize human navels. This uses the D# library to access and upadte elements on the index.html file in the main belly-button-challenge directory which is unaltered from the provided materias. The samples.json is for reference only. The images folder is for screenshots used in the README file.
+The Static folder contains a JS folder contains the app.js file. App.js contains all the javasript code to create the interatcive visualizations for representing data about microbes that colonize human navels. This uses the D3 library to access and upadte elements on the index.html file in the main belly-button-challenge directory which is unaltered from the provided materias. The samples.json is for reference only. The images folder is for screenshots used in the README file.
 
 
 ## Installing
