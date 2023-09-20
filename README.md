@@ -10,7 +10,7 @@ Module 14 challenge-Interactive Web Visualizations using JavaScript and D3
 - [Contributing](#contributing)
 
 ## About
-Use the D3 library to connect to a url and read a json file. Use the D# library to access and update elements of a web page with data from the json file to create interactive elements on a web page.
+Use the D3 library to connect to a url and read a json file. Use the D3 library to access and update elements of a web page with data from the json file to create interactive elements on a web page.
 
 ## Getting Started
 All necessary files are located in this belly-button-challenge repository. Data is retrieved from https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json
